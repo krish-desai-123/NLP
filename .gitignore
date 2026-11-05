@@ -1,0 +1,54 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+venv1/
+env/
+.venv/
+.venv1/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# PyCharm
+# =========================
+.idea/
+*.iml
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Environment Variables
+# =========================
+Lab_Work_1_2/.env
+.env
+
+
+dl-tf/
+ip-cv/
+Image Processing/Assets/CelebrityFacesDataset/
+Image Processing/Assets/face_recognizer.yml
+
+temp.ipynb
