@@ -1,0 +1,5 @@
+dataset/Tweets.csv
+.ipynb_checkpoints/
+__pycache__/
+*.mp4
+*.mov
